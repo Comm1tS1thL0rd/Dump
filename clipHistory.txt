@@ -13,3 +13,16 @@ Clipboard 2024-11-06 00:06:54 :
 Clipboard 2024-11-06 00:17:30 : 
 
 
+
+
+2024-11-06 00:23:19
+
+Clipboard 2024-11-06 00:23:18 : Among all closed rectangular boxes of volume 27 cm3
+
+, what is
+
+the smallest surface area? (Volume=xyz = 27 and Surface area
+
+S = 2(xy + yz + xz). Eliminate z and nd the local minima for
+
+S(x, y). Local minimum of S(3, 3, 3) = 54.)
