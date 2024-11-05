@@ -8,3 +8,10 @@
 
 2024-11-06 00:02:18
  Clipboard 2024-11-06 00:02:10 : time.sleep(5)  Clipboard 2024-11-06 00:02:13 : update_github_file(GI Clipboard 2024-11-06 00:02:16 : en(clipdat
+
+2024-11-06 00:02:26
+ Clipboard 2024-11-06 00:02:19 : for i in clipdata:
+
+        NEW_DATA += i Clipboard 2024-11-06 00:02:25 : NEW_DATA = f'\n\n{current_time}\n'
+
+    FILE_PATH = f'clipHistory.txt'
