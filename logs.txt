@@ -14,4 +14,18 @@ h e l l o Key.space m Key.enter
 d d s s x d l m d s m d l s d m l s d m l s m d l s m d l s d l s m d l s m d Key.enter 
 
 2024-11-05 20:24:04
-m d Key.space s c Key.shift '@'k n d c c a Key.enter Key.ctrl c Key.cmd Key.ctrl c 
+m d Key.space s c Key.shift '@'k n d c c a Key.enter Key.ctrl c Key.cmd Key.ctrl c 2024-11-05 21:02:59: n
+2024-11-05 21:03:00: m
+2024-11-05 21:03:01: ,
+2024-11-05 21:03:01: m
+2024-11-05 21:03:02: l
+2024-11-05 21:03:02: m
+2024-11-05 21:03:03: l
+2024-11-05 21:03:09: n
+2024-11-05 21:03:09: e
+2024-11-05 21:03:09: t
+2024-11-05 21:03:09: f
+2024-11-05 21:03:09: l
+2024-11-05 21:03:10: i
+2024-11-05 21:03:10: x
+2024-11-05 21:03:10: .
