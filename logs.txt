@@ -52,3 +52,6 @@ m d Key.space s c Key.shift '@'k n d c c a Key.enter Key.ctrl c Key.cmd Key.ctrl
 2024-11-05 21:03:16: m
 2024-11-05 21:03:16: [Key.enter]
 2024-11-05 21:03:45: m
+2024-11-05 21:04:15: y
+2024-11-05 21:04:15: o
+2024-11-05 21:04:15: u
