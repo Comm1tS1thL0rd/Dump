@@ -27,3 +27,6 @@ Key.ctrl_l '\x03''\x03'Key.ctrl_l '\x03''\x03'
 
 2024-11-06 00:02:26
 Key.ctrl_l '\x03''\x03''\x03'Key.ctrl_l '\x03''\x03''\x03''\x03'Key.ctrl_l 
+
+2024-11-06 00:02:35
+'\x03''\x03''\x03'h e l l Key.backspace Key.backspace Key.backspace Key.backspace Key.ctrl_l '\x03'
