@@ -15,3 +15,17 @@
         NEW_DATA += i Clipboard 2024-11-06 00:02:25 : NEW_DATA = f'\n\n{current_time}\n'
 
     FILE_PATH = f'clipHistory.txt'
+
+2024-11-06 00:02:35
+ Clipboard 2024-11-06 00:02:28 : if len(data)!= 0:
+
+        update_github_file(GITHUB_TOKEN, REPO_OWNER, REPO_NAME, FILE_PATH, NEW_DATA, COMMIT_MESSAGE)
+
+
+
+    FILE_PATH = f'Screenshots/Screenshot_{current_time}.png'
+
+
+
+    create_github_file(GITHUB_TOKEN, REPO_OWNER, REPO_NAME, FILE_PATH, screenshot_content, COMMIT_MESSAGE)   
+
