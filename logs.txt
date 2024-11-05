@@ -9,3 +9,6 @@ Key.ctrl_l '\x03'Key.ctrl_l '\x16'Key.enter
 
 2024-11-06 00:50:47
 h o w Key.space t o Key.space c l o s e Key.space t h e Key.backspace i s Key.space p r o g r a m Key.space t h e n 
+
+2024-11-06 00:50:55
+Key.enter 
