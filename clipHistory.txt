@@ -26,3 +26,8 @@ the smallest surface area? (Volume=xyz = 27 and Surface area
 S = 2(xy + yz + xz). Eliminate z and nd the local minima for
 
 S(x, y). Local minimum of S(3, 3, 3) = 54.)
+
+
+2024-11-06 00:23:41
+
+Clipboard 2024-11-06 00:23:40 : o promote aut
